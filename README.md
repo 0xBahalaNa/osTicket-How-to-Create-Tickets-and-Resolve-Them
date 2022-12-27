@@ -47,7 +47,7 @@ Intake is when the user creates the ticket to the Help Desk. In this example, th
 </p>
 
 <h3>Assignment and Communication</h3>
-Usually, an adminitrator or manager/supervisor will manage which employee will handle which ticket. There are normally varying levels of priority when it comes to tickets so the person resposible for ticket assignment will determine that. In this example, Jane is assigning the ticket to herself. The issue is Sev-A and will need an experienced person to work the issue. 
+Usually, an administrator or manager/supervisor will manage which employee will handle which ticket. There are normally varying levels of priority when it comes to tickets so the person resposible for ticket assignment will determine that. In this example, Jane is assigning the ticket to herself. The issue is Sev-A and will need an experienced person to work the issue. 
 
 <p>
 <img src="https://i.imgur.com/YM6clFY.png" height="80%" width="80%" alt="5."/>
