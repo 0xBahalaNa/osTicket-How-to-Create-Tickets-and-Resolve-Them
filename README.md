@@ -18,11 +18,8 @@ In this tutorial, osTicket will be utilized to show how to create a ticket as a 
 <h2>Ticket Lifecycle Stages</h2>
 
 - Intake
-
 - Assignment and Communication
-
 - Working the Issue
-
 - Resolution
 
 <h2>Lifecycle Stages</h2>
@@ -71,4 +68,4 @@ In this final example, Jane was able to get the appropriate parties notified of 
 <img src="https://i.imgur.com/9gNXYf4.png" height="80%" width="80%" alt="8."/>
 </p>
 
-Congratulations, the ticket was resolved. Continue to work around osTicket to build intituition and repetition for working tickets. In the IT world, ticketing systems vital in how the work is managed!
+Congratulations, the ticket was resolved and you worked your first ticket! Continue to work around osTicket to build intituition and repetition for working tickets. In the IT world, ticketing systems vital in how the work is managed!
