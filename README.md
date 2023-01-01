@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket: How to Create Tickets and Resolve Them</h1>
 In this tutorial, osTicket will be utilized to show how to create a ticket as a user. Then on the backend, it will show how administrators and agents assign tickets, work them, and resolve them. This tutorial will build intuition on how to use a ticket system for both users and IT professionals.<br />
 
 <h2>Environments and Technologies Used</h2>
