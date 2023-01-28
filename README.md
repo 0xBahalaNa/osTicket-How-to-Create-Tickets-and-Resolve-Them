@@ -69,3 +69,6 @@ In this final example, Jane was able to get the appropriate parties notified of 
 </p>
 
 Congratulations, the ticket was resolved and you worked your first ticket! Continue to work around osTicket to build intituition and repetition for working tickets. In the IT world, ticketing systems vital in how the work is managed!
+
+
+**REMEMBER TO DELETE YOUR RESOURCES ONCE YOU ARE DONE WITH THE LAB!**
